@@ -1,0 +1,101 @@
+.card-body {
+    padding: 10px;
+}
+.hide {
+    display: none !important;
+}
+.card-body a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+}
+.card-body a:hover {
+    color: #000;
+}
+.text-success {
+    color: #000!important;
+}
+.text-warning {
+    color: red!important;
+}
+span.label.label-danger {
+    background: red;
+    color: #fff;
+    padding: 5px;
+    border-radius: 10px;
+}
+.card-body a {
+    color: #000;
+}
+.modal-dialog {
+    max-width: 700px;
+    margin: 1.75rem auto;
+}
+table.sales_tbl tr td{
+    text-align: center;
+}
+.col-sm-2.price {
+    height: 451px;
+    background: green;
+    padding: 0;
+    margin: 0px;
+    max-width: 10.793333%;
+    border-right: 1px solid #000;
+}
+.col-sm-2.price p {
+    z-index: 1;
+    margin: 0;
+    text-align: right;
+    padding-right: 4px;
+    font-size: 10pt;
+}
+.bg_height {
+    background: yellowgreen;
+    z-index: 0;
+}
+.col-sm-1.day {
+    height: 401px;
+    background: green;
+    padding: 0;
+    margin-bottom: 50px;
+    max-width: 7.433333%;
+    border-bottom: 1px solid #000;
+    border-right: 1px solid #e2e2e2;
+}
+.col-sm-1.day:last-child {
+    border-right: 0px;
+}
+.col-sm-1.day p {
+    width: 79.5px;
+    z-index: 1;
+    margin: 0;
+    text-align: center;
+    font-size: 10pt;
+}
+.rating {
+    height: 400px;
+    background: #fff;
+}
+.form-control:focus {
+    border-color: #003c7d;
+    box-shadow: 0 0 0 1px rgba(0, 124, 255, 0.25);
+}
+.date_no {
+    font-size: 27px;
+    text-align: center;
+    font-weight: bold;
+}
+.seldate {
+    position: relative;
+    top: 40px;
+    margin: auto;
+    display: block;
+    width: 80px;
+}
+.chover:hover {
+    background: #007bff;
+    color: #fff;
+}
+a:hover {
+    text-decoration: none !important;
+}
